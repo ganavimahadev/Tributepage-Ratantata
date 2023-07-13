@@ -1,0 +1,74 @@
+.top-left {
+    position: absolute;
+    top: 400px;
+    left: 50px;
+    font-size: x-large;
+    color: whitesmoke;
+  }
+  .par{
+    font-size: x-large;
+    font-style: oblique;
+  }
+  .in{
+    font-size: 22px;
+    text-align: justify;
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+
+  }
+  .sec{
+    font-size: 21px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;	
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+
+  }
+  .last{
+    font-size: 19px;
+    padding-top: 5px;
+    text-align: center;
+  }
+  .l{
+    padding-top: 7px;
+    text-align: center;
+
+  }
+  .t{
+    font-size: 19px;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 30px;
+  }
+.footer{
+   text-align: center;
+   font-size: large;
+   padding-bottom: 5px;
+   font-family: Perpetua,Baskerville,Big Caslon,Palatino Linotype,Palatino,URW Palladio L,Nimbus Roman No9 L,serif; 
+
+}
+span{
+  font-family: Papyrus,fantasy; 
+}
+.b{
+  padding-top: 7px;
+}
+.fa {
+  padding: 5px;
+  font-size: 10px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.5;
+}
+.fa-linkedin {
+  background: rgb(66, 38, 38);
+  color: white;
+}
+.foot{
+   text-align: center ;
+}
